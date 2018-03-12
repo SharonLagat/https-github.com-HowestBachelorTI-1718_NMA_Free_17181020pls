@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fitness-Tracker</string>
+    <string name="btn_log">Log your workout</string>
+    <string name="btn_1RM">calculate your 1RM Max</string>
+    <string name="tv_activity">Choose your activity</string>
+    <string name="tv_reps">Amount of reps:</string>
+    <string-array name="exercise_array">
+        <item>Pull up</item>
+        <item>Deadlift</item>
+        <item>Bench Press</item>
+        <item>Dips</item>
+        <item>Weighted Barbell Squat</item>
+    </string-array>
+</resources>
